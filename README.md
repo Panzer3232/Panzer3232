@@ -15,9 +15,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | SQL | C++ | HTML | CSS
+- 💻 &nbsp; Python | SQL | C++ | Javascript | ReactJS
 - 🌐 &nbsp; Pandas | Pytorch | TensorFlow | OpenCV | AutoML | MLflow
-- 🔧 &nbsp; Microsoft Azure| Adobe Analytics | Power BI | Docker | Git
+- 🔧 &nbsp; Microsoft Azure | AWS | Docker | Git
 - 🖥 &nbsp; NLP | TimeSeries | Computer Vision.
 
 <br>
