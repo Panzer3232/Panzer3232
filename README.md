@@ -27,7 +27,7 @@
 
 </br>
 
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Panzer3232&bg_color=000000&color=7A7ADB&line=2234AE&point=D3D3D3&area=true&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Panzer3232&color=green)
 
 
 
