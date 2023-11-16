@@ -27,7 +27,7 @@
 
 </br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Panzer3232&color=green)](https://github.com/Panzer3232/github-readme-stats)
+[![Profile Views](https://komarev.com/ghpvc/?username=Panzer3232&color=green)](https://github.com/Panzer3232)
 
 
 
