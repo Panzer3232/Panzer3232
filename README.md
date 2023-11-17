@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Studying Computer Science, DevOps and Mathematics.
 - 💼 &nbsp; Machine Learning Engineer.
 - 🌱 &nbsp; Enthusiast in Statistics and Artificial Intelligence.
-- ✍️ &nbsp; Reading books like contemporary fiction and playing soccer.
+- ✍️ &nbsp; Reading books like contemporary fiction and playing cricket.
 - ☕ &nbsp; A cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
