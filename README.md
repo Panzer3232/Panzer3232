@@ -18,7 +18,7 @@
 - 💻 &nbsp; Python | SQL | C++ | Javascript | ReactJS
 - 🌐 &nbsp; Pandas | Pytorch | TensorFlow | OpenCV | AutoML | MLflow
 - 🔧 &nbsp; Microsoft Azure | AWS | Docker | Git
-- 🖥 &nbsp; NLP | TimeSeries | Computer Vision.
+- 🖥 &nbsp; NLP | Generative AI| TimeSeries | Computer Vision.
 
 <br>
 
